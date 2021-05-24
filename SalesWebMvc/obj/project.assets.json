@@ -12739,11 +12739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\c#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectUniqueName": "D:\\Projetos\\c#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "D:\\Projetos\\c#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectPath": "D:\\Projetos\\c#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
       "packagesPath": "C:\\Users\\alvaa\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\c#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\obj\\",
+      "outputPath": "D:\\Projetos\\c#\\SalesWebMvc\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
